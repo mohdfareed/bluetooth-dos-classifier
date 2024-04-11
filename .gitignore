@@ -1,7 +1,6 @@
 # python
 *__pycache__*
 .venv
-.ipynb_checkpoints
 .mypy_cache
 
 # vscode
@@ -12,5 +11,6 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
-# datasets
-data/*.csv
+# project
+data
+models
