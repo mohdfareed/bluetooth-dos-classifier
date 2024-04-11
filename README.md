@@ -32,9 +32,3 @@ are:
 - `data/benign_train.csv`
 - `data/dos_test.csv`
 - `data/dos_train.csv`
-
-## Experiments Tracking
-
-Different experiments are tracked using Git tags. Each new experiment is
-tagged with an experiment identifier. The notebook for each experiment must
-include all the details of the experiment.
