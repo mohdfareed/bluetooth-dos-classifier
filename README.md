@@ -36,5 +36,5 @@ are:
 ## Experiments Tracking
 
 Different experiments are tracked using Git tags. Each new experiment is
-tagged with a new tag. The notebook for each experiment must include all the
-details of the experiment.
+tagged with an experiment identifier. The notebook for each experiment must
+include all the details of the experiment.
