@@ -3,6 +3,3 @@
 python3 -m venv .venv           # create a virtual environment
 source .venv/bin/activate       # activate virtual environment
 pip install -r requirements.txt # install dependencies
-
-# install the virtual environment as a kernel for jupyter notebook
-python -m ipykernel install --user --name=.venv --display-name "bt-classifier"
