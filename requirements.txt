@@ -1,0 +1,10 @@
+# data processing
+pandas
+numpy
+scapy
+
+# data visualization
+matplotlib
+
+# machine learning
+scikit-learn
