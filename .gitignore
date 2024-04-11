@@ -12,6 +12,5 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
-# dataset
-data/*
-!data/*.zip
+# datasets
+data/*.csv
