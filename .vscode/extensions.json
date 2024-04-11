@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-python.isort",
         "ms-python.black-formatter",
-        "donjayamanne.python-extension-pack"
+        "donjayamanne.python-extension-pack",
+        "ms-toolsai.jupyter"
     ]
 }

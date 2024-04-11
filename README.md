@@ -15,3 +15,5 @@ git clone https://github.com/mohdfareed/bt-attacks-detector.git
 cd bt-attacks-detector
 ./setup.sh
 ```
+
+Open the Jupyter notebook and select the kernel `bt-classifier`.

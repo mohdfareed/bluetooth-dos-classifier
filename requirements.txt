@@ -1,7 +1,10 @@
+# environment
+jupyter
+ipykernel
+
 # data processing
 pandas
 numpy
-scapy
 
 # data visualization
 matplotlib

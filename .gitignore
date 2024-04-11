@@ -1,7 +1,8 @@
 # python
 *__pycache__*
-.ipynb_checkpoints
 .venv
+.ipynb_checkpoints
+.mypy_cache
 
 # vscode
 .vscode/*
