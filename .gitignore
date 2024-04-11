@@ -11,3 +11,7 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+# dataset
+data/*
+!data/*.zip
