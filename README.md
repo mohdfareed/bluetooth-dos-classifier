@@ -32,3 +32,21 @@ are:
 - `data/benign_train.csv`
 - `data/dos_test.csv`
 - `data/dos_train.csv`
+
+Due to a lack of benign data (as seen in the baseline experiment), more data
+was captured on a local machine (macOS) using
+[PacketLogger](https://www.bluetooth.com/blog/a-new-way-to-debug-iosbluetooth-applications/),
+then it was exported to `.btsnoop` format and converted to `.csv` format using
+Wireshark. The captured data is available
+[here](https://www.icloud.com/iclouddrive/031kzui9eqKLht9L8aIDuukIQ#capture).
+The resulting dataset files are:
+
+- `data/capture.csv`
+
+The data was captured using the following devices:
+
+- Headphones
+- AirPods
+- Mouse
+- Game controller
+- Smartwatch
