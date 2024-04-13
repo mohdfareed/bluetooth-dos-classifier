@@ -1,6 +1,5 @@
 # environment
 jupyter
-ipykernel
 
 # data processing
 pandas
@@ -8,6 +7,9 @@ numpy
 
 # data visualization
 matplotlib
+seaborn
+SciencePlots
+wordcloud
 
 # machine learning
 scikit-learn
