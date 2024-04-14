@@ -43,7 +43,7 @@ The resulting dataset files are:
 
 - `data/capture.csv`
 
-The data was captured using the following devices:
+The data was captured with the following devices connected via Bluetooth:
 
 - Headphones
 - AirPods

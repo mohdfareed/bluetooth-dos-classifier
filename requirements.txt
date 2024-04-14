@@ -13,3 +13,4 @@ wordcloud
 
 # machine learning
 scikit-learn
+scikit-optimize
