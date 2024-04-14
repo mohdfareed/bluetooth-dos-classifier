@@ -50,3 +50,10 @@ The data was captured using the following devices:
 - Mouse
 - Game controller
 - Smartwatch
+
+## Experiments
+
+Each experiment done is run is a separate Jupyter notebook. The notebooks are
+stored in the `notebooks` directory. An experiment's notebook outlines the
+experiment's purpose and findings. The notebook contains the results of the
+experiment through text and visualizations.
